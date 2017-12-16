@@ -1,3 +1,5 @@
+package JavaSqlRemoteConnection;
+
 import javax.print.attribute.standard.MediaSize;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
